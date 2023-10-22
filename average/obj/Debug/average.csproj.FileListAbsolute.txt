@@ -1,0 +1,11 @@
+F:\Visual Stadio\average\average\bin\Debug\average.exe.config
+F:\Visual Stadio\average\average\bin\Debug\average.exe
+F:\Visual Stadio\average\average\bin\Debug\average.pdb
+F:\Visual Stadio\average\average\obj\Debug\average.csproj.AssemblyReference.cache
+F:\Visual Stadio\average\average\obj\Debug\average.csproj.SuggestedBindingRedirects.cache
+F:\Visual Stadio\average\average\obj\Debug\average.Form1.resources
+F:\Visual Stadio\average\average\obj\Debug\average.Properties.Resources.resources
+F:\Visual Stadio\average\average\obj\Debug\average.csproj.GenerateResource.cache
+F:\Visual Stadio\average\average\obj\Debug\average.csproj.CoreCompileInputs.cache
+F:\Visual Stadio\average\average\obj\Debug\average.exe
+F:\Visual Stadio\average\average\obj\Debug\average.pdb
